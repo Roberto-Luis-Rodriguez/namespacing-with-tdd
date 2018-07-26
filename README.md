@@ -106,3 +106,4 @@ So that I can view who is using my website.
 - [ ] I can see a link to view a list of users from the homepage
 - [ ] The page should contain the user's full name, email address, role, and the number of board games in their collection.
 - [ ] If I am not an administrator, I should be redirected to the homepage.
+# namespacing-with-tdd
